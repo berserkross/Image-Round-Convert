@@ -1,0 +1,15 @@
+# Python 编译缓存
+__pycache__/
+*.py[cod]
+
+# 虚拟环境
+venv/
+.env/
+
+# IDE (PyCharm/VS Code)
+.idea/
+.vscode/
+
+# 操作系统垃圾文件
+.DS_Store
+Thumbs.db
